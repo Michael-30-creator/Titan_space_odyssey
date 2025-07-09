@@ -1,15 +1,5 @@
-README
-Simulation of a probe launch from Earth to Titan and landing on the surface - Group 15
+Simulation of a probe launch from Earth to Titan and landing on the surface
 Requirements: Java installed on computer that is used
-
-
-This repo is split into: 
-- PhysicsEngine
-- SolarSystem
-- Test
-- seperate png files for the images
-- README
-
 
 In order to run the simulation:
 
